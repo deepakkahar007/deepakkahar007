@@ -1,4 +1,7 @@
 ### Hi there 👋
+1. A self taught developer.
+2. know a lots of programming languages like C,C++, node, Javascript / TypeScript, Python
+3. worked with many frameworks like Node / Express, fastAPI, Flask, Django, React, NextJS
 
 <!--
 **deepakkahar007/deepakkahar007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
