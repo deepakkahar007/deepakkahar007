@@ -1,5 +1,5 @@
 ### Hi there 👋
-# A Self-Taught Developer
+## Full Stack Developer
 
 I am a skilled developer with a strong foundation in various programming languages and frameworks. Through self-directed learning, I have acquired proficiency in C, C++, Node.js, JavaScript, TypeScript, and Python. My experience extends to working with popular frameworks such as Node.js/Express, FastAPI, Flask, Django, React, and Next.js.
 
